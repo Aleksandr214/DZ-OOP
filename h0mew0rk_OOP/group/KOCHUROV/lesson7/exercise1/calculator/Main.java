@@ -1,4 +1,4 @@
-package group4618.pozdnyakov.lesson7.exercise1.calculator;
+package group.KOCHUROV.lesson7.exercise1.calculator;
 
 public class Main {
     public static void main(String[] args) {

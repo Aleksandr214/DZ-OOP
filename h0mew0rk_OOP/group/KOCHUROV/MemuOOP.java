@@ -1,8 +1,8 @@
-package group4618.pozdnyakov;
+package group.KOCHUROV;
 
-import group4618.pozdnyakov.lesson1.exercise1.Program11;
-import group4618.pozdnyakov.lesson2.exercise1.Program21;
-import group4618.pozdnyakov.lesson7.exercise1.calculator.Main;
+import group.KOCHUROV.lesson1.exercise1.Program11;
+import group.KOCHUROV.lesson2.exercise1.Program21;
+import group.KOCHUROV.lesson7.exercise1.calculator.Main;
 
 public class MemuOOP {
     public static void main(String[] args) {

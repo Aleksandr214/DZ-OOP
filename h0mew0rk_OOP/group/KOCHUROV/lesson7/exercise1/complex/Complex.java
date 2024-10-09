@@ -1,4 +1,4 @@
-package group4618.pozdnyakov.lesson7.exercise1.complex;
+package group.KOCHUROV.lesson7.exercise1.complex;
 
 public class Complex {
     private final double re;

@@ -1,5 +1,5 @@
 
-package group4618.pozdnyakov.lesson6.exercise1;
+package group.KOCHUROV.lesson6.exercise1;
 
 public class User{
 	private String surname;

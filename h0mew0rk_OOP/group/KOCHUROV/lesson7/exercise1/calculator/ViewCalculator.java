@@ -1,6 +1,6 @@
-package group4618.pozdnyakov.lesson7.exercise1.calculator;
+package group.KOCHUROV.lesson7.exercise1.calculator;
 
-import group4618.pozdnyakov.lesson7.exercise1.complex.Complex;
+import group.KOCHUROV.lesson7.exercise1.complex.Complex;
 
 import java.util.Scanner;
 

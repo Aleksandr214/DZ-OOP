@@ -1,4 +1,4 @@
-package group4618.pozdnyakov;
+package group.KOCHUROV;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package group4618.pozdnyakov.lesson5.exercise1.view;
+package group.KOCHUROV.lesson5.exercise1.view;
 
-import group4618.pozdnyakov.lesson5.exercise1.model.User;
+import group.KOCHUROV.lesson5.exercise1.model.User;
 
 import java.util.List;
 

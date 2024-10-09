@@ -1,13 +1,13 @@
-package group4618.pozdnyakov.lesson5.exercise1.controller;
+package group.KOCHUROV.lesson5.exercise1.controller;
 
-import group4618.pozdnyakov.lesson5.exercise1.model.Student;
-import group4618.pozdnyakov.lesson5.exercise1.model.Type;
-import group4618.pozdnyakov.lesson5.exercise1.service.DataService;
-import group4618.pozdnyakov.lesson5.exercise1.service.StudentGroupService;
-import group4618.pozdnyakov.lesson5.exercise1.model.Teacher;
-import group4618.pozdnyakov.lesson5.exercise1.view.StudentGroupView;
-import group4618.pozdnyakov.lesson5.exercise1.view.StudentView;
-import group4618.pozdnyakov.lesson5.exercise1.view.TeacherView;
+import group.KOCHUROV.lesson5.exercise1.model.Student;
+import group.KOCHUROV.lesson5.exercise1.model.Type;
+import group.KOCHUROV.lesson5.exercise1.service.DataService;
+import group.KOCHUROV.lesson5.exercise1.service.StudentGroupService;
+import group.KOCHUROV.lesson5.exercise1.model.Teacher;
+import group.KOCHUROV.lesson5.exercise1.view.StudentGroupView;
+import group.KOCHUROV.lesson5.exercise1.view.StudentView;
+import group.KOCHUROV.lesson5.exercise1.view.TeacherView;
 
 import java.util.ArrayList;
 import java.util.List;

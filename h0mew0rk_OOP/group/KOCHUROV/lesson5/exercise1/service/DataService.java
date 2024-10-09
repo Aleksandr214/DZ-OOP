@@ -1,9 +1,9 @@
-package group4618.pozdnyakov.lesson5.exercise1.service;
+package group.KOCHUROV.lesson5.exercise1.service;
 
-import group4618.pozdnyakov.lesson5.exercise1.model.Student;
-import group4618.pozdnyakov.lesson5.exercise1.model.Teacher;
-import group4618.pozdnyakov.lesson5.exercise1.model.Type;
-import group4618.pozdnyakov.lesson5.exercise1.model.User;
+import group.KOCHUROV.lesson5.exercise1.model.Student;
+import group.KOCHUROV.lesson5.exercise1.model.Teacher;
+import group.KOCHUROV.lesson5.exercise1.model.Type;
+import group.KOCHUROV.lesson5.exercise1.model.User;
 
 import java.util.ArrayList;
 import java.util.List;

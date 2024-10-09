@@ -1,4 +1,4 @@
-package group4618.pozdnyakov.lesson4.exercise1;
+package group.KOCHUROV.lesson4.exercise1;
 
 import java.util.Comparator;
 

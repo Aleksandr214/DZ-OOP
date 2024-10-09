@@ -1,4 +1,4 @@
-package group4618.pozdnyakov.lesson5.exercise1.model;
+package group.KOCHUROV.lesson5.exercise1.model;
 
 import java.util.List;
 
