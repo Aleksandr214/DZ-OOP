@@ -1,4 +1,4 @@
-package group4618.pozdnyakov.lesson2.exercise1;
+package group.KOCHUROV.lesson2.exercise1;
 
 import java.util.ArrayList;
 import java.util.List;

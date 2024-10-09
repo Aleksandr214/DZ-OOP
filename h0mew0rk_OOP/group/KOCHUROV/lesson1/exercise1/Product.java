@@ -1,4 +1,4 @@
-package group.kochurov.lesson1.exercise1;
+package group.KOCHUROV.lesson1.exercise1;
 
 public abstract class Product {
     private String name;
